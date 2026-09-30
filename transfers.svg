@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+    <defs>
+      <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+        <stop offset="0" stop-color="#08111f"/><stop offset="1" stop-color="#17314b"/>
+      </linearGradient>
+      <pattern id="p" width="70" height="70" patternUnits="userSpaceOnUse" patternTransform="rotate(25)">
+        <circle cx="10" cy="10" r="2" fill="#18b981" opacity=".35"/>
+        <path d="M0 35h70" stroke="#fff" opacity=".035"/>
+      </pattern>
+    </defs>
+    <rect width="1200" height="675" fill="url(#g)"/>
+    <rect width="1200" height="675" fill="url(#p)"/>
+    <circle cx="1010" cy="110" r="160" fill="#18b981" opacity=".12"/>
+    <circle cx="1010" cy="110" r="90" fill="#18b981" opacity=".08"/>
+    <text x="90" y="300" font-size="130" font-family="Arial" fill="#18b981">🔄</text>
+    <text x="90" y="430" font-size="54" font-family="Arial" font-weight="700" fill="#fff">آخر مستجدات سوق الانتقالات</text>
+    <text x="90" y="490" font-size="28" font-family="Arial" fill="#b8c5d6">GOOAL ZONE • أخبار كرة القدم</text>
+    <rect x="90" y="525" width="210" height="8" rx="4" fill="#18b981"/>
+    </svg>
